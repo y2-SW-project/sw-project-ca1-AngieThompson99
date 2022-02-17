@@ -1,7 +1,13 @@
-Feasibility Study Worksheet
-
-
-Step 1 – Idea Exploration, Identification and Assessment
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Feasibility Study Worksheet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <p>Step 1 – Idea Exploration, Identification and Assessment
 
 Describe the business idea or concept (filling an unmet need in the marketplace with a new product or service, providing an existing product/service in a new form, delivering a product/service better or cheaper than competitors, etc.)
 
@@ -84,6 +90,11 @@ People might not renew their membership after 3 months instead  of paying annual
 
 The Feasibility Study completed allows you to make an informed evaluation about the business idea.
 
-•	Weight up the Pros and Cons of the product.  Is this a good business innovation?
+•	Weight up the Pros and Cons of the product.  Is this a good business innovation?</p>
+  </body>
+</html>
+
+
+
 
 
