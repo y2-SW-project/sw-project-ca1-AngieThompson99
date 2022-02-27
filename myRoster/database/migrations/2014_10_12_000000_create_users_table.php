@@ -11,7 +11,7 @@ return new class extends Migration
      *
      * @return void
      */
-    public function up()
+    public function up() //Laravel provides a Model and Migration for user.
     {
         Schema::create('users', function (Blueprint $table) {
             $table->id();
