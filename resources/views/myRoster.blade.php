@@ -21,12 +21,12 @@
         </style>
     </head>
     <body>
-    <a href=" /login"> Login</a>
+    <a href=" /"> Welcome</a>
 
-    <a href=" /register"> Register</a>
+<a href=" /login"> Login</a>
 
-    <a href=" /about"> About</a>
+<a href=" /register"> Register</a>
 
-    <a href=" /myRoster"> My Roster</a>
+<a href=" /about"> About</a>
     </body>
 </html>
