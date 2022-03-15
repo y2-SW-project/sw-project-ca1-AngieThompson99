@@ -41,4 +41,11 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+    // roles that belong to the user
+    public function roles()
+    // as Mo explained, we dont need to write the connect in sql
+    // because we have this line, this will return the array of roles that the user has
+    {
+        return $this->belongsToMany('App\Models\Role', 'user_role');
+    }
 }
